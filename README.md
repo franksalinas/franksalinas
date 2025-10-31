@@ -1,4 +1,18 @@
-## Hi there 👋
+# 👋 Hey, I’m Frank  
+
+**CTO | Product & Engineering Leader | Fintech Nerd | Web3 Enthusiast | AI Explorer**
+
+I’ve spent years leading global engineering and product teams, scaling fintech, payments, and marketplace platforms. I specialize in modernizing legacy stacks and shipping big things without losing the startup spirit.  
+
+These days, I’m rediscovering the fun of coding *and* chasing the blazingly fast-moving world of **AI**.  
+
+### ⚡ Quick Snapshot
+- 💼 Former CTO @ Raise, @ Yapstone  
+- 🌍 Led global engineering orgs across time zones and finish lines.   
+- 🔗 Drove a blockchain initiative to bring **gift cards onto the blockchain**.  
+- ☕ Fueled by coffee, curiosity, and life-long learning.  
+
+
 
 <!--
 **franksalinas/franksalinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
