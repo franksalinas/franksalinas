@@ -4,12 +4,11 @@
 
 I’ve spent years leading global engineering and product teams, scaling fintech, payments, and marketplace platforms. I specialize in modernizing legacy stacks and shipping big things without losing the startup spirit.  
 
-These days, I’m rediscovering the fun of coding *and* chasing the blazingly fast-moving world of **AI**.  
+These days, I’m rediscovering the fun of coding and chasing the blazingly fast-moving world of **AI**.  
 
 ### ⚡ Quick Snapshot
-- 💼 Former CTO @ Raise, @ Yapstone  
-- 🌍 Led global engineering orgs across time zones and finish lines.   
-- 🔗 Drove a blockchain initiative to bring **gift cards onto the blockchain**.  
+- 💼 Former CTO @Raise, @Yapstone  
+- 🌍 Leading global engineering teams across time zones and finish lines.     
 - ☕ Fueled by coffee, curiosity, and life-long learning.  
 
 
