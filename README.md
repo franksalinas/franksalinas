@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Frank  
 
-**CTO | Product & Engineering Leader | Fintech Nerd | Web3 Enthusiast | AI Explorer**
+**CTO | Engineering & Product Leader | Fintech Nerd | Web3 Enthusiast | AI Explorer**
 
 I’ve spent years leading global engineering and product teams, scaling fintech, payments, and marketplace platforms. I specialize in modernizing legacy stacks and shipping big things without losing the startup spirit.  
 
